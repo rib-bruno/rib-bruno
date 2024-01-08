@@ -29,7 +29,7 @@ Me chamo Bruno Ribeiro! Formado em Química pela UFPE, sou um grande entusiasta 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rib-bruno&repo=Pokedex-Compose&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rib-bruno/Pokedex-Compose)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rib-bruno&repo=Previsao-do-Tempo-App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rib-bruno/Previsao-do-Tempo-App)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rib-bruno&repo=Previsao-do-Tempo-App&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rib-bruno/copa-2022-android)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rib-bruno&repo=copa-2022-android&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rib-bruno/copa-2022-android)
 
 
 
