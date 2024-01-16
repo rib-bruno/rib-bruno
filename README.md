@@ -7,7 +7,7 @@ Me chamo Bruno Ribeiro! Formado em Química pela UFPE, sou um grande entusiasta 
 
 
 ## Atualmente, estou estudando 📚:
-### [Santander Bootcamp 2023 - Mobile Android com Kotlin](https://web.dio.me/track/santander-bootcamp-2023-mobile-android-com-kotlin)
+### [Desenvolvimento Android Completo 2024 - Kotlin & Java](https://www.udemy.com/course/desenvolvimento-android-completo/)
 
 
 
